@@ -1,0 +1,16 @@
+*{
+            font-family: 'Poppins',sans-serif;
+        }
+        .h-font{
+            font-family: 'Mariend',cursive;
+        }
+
+
+
+
+        /*dashboard */
+
+#dashboard-menu{
+  position: fixed;
+  height: 100%;
+}
