@@ -10,6 +10,7 @@ include'room_nav.php';
     <?php    include'links.php';  ?>
     
  </head>
+<!-- start of body-->
 <body>
   <div class="my-5 px-4">
     <h2 class="fw-bold h-font text-center">OUR ROOMS</h2>
